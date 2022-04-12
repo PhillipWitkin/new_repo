@@ -1,5 +1,9 @@
 A file with some text.
 
+<<<<<<< HEAD
 Wowza, even more (change 2) text!
+=======
+Wowza, even more (change1) text!
+>>>>>>> tester
 
 And more
